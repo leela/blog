@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Leela Vadlamudi"
 theme = "devise"
 copyright = " "
+enableEmoji="true"
 
 # Main menu items
 [menu]
@@ -13,7 +14,7 @@ copyright = " "
     url = "/about/"
     weight = 100
   [[menu.main]]
-    identifier = "posts"
+    identifier = "post"
     name = "Posts"
     title = "Posts"
     url = "/post/"
